@@ -2,4 +2,4 @@ A text classifier based on Decision Trees ID3, Naive Bayes and KNN algorithm in 
 
 Author: Liu Yang(yangliuyx@gmail.com)
 
-Author's blog: http://blog.csdn.net/yangliuy
+Author's blog: I love you
